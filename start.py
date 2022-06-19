@@ -51,13 +51,6 @@ def start(video_url):
         
         
     def uploader(video_id, video_title):
-        print('Uploading to ftp server ....')
-        video_path = dir_path + '/ready_to_upload/' + f'{video_id}.mp4'
-        session = ftplib.FTP('server.whatsme.xyz','admin@boxsmm.com','Osama147/')
-        file = open(video_path,'rb')                  # file to send
-        session.storbinary(f'STOR videos/{video_id}.mp4', file)     # send the file
-        file.close()                                    # close file and FTP
-        session.quit()
         thumbnail(video_id)
         youtube(video_id, f'{video_title} - Slowed And Reverb')
         
