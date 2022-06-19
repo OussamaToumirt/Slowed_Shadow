@@ -1,7 +1,7 @@
 
 <h1> SlowedOUSS</h1>
 <center>
-<p>Slowedouss is Script for downloading youtube music and make it slowed and reverb and upload it to youtube channel</p>
+<p>Slowedouss is a script that downloads music from YouTube and slows it down and adds reverb.</p>
 </center>
 <center>
 <h1>
