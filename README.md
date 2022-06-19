@@ -14,7 +14,8 @@
 
 
 <h2>
-<a href="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">ffmpeg Required </a>
-Please install Requirements Before start
+<a href="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">ffmpeg Required</a><br>
+Please install Requirements Before start.
+pip install -r requirements.txt
 </h2>
 
