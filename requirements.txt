@@ -1,0 +1,14 @@
+requests
+yt_dlp
+opencv-python
+numpy
+Pillow
+pylab-sdk
+numpy==1.19.5
+matplotlib==3.2.2
+SoundFile==0.10.3.post1
+scipy
+moviepy
+ffmpeg
+google-auth-oauthlib
+google-api-python-client
