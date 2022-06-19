@@ -1,7 +1,7 @@
 
-<h1> SlowedOUSS</h1>
+<h1>Slowed Shadow</h1>
 <center>
-<p>Slowedouss is a script that downloads music from YouTube and slows it down and adds reverb.</p>
+<p>Slowed Shadow is a script that downloads music from YouTube and slows it down and adds reverb.</p>
 </center>
 <center>
 <h1>
